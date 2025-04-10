@@ -3462,3 +3462,23 @@ ValueError: Target scores need to be probabilities for multiclass roc_auc, i.e. 
 2025-04-10 17:44:00,557:INFO:Preloading libraries
 2025-04-10 17:44:00,557:INFO:Set up data.
 2025-04-10 17:44:00,560:INFO:Set up index.
+2025-04-10 18:07:37,045:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:37,046:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:37,046:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:37,046:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:38,022:INFO:Initializing load_model()
+2025-04-10 18:07:38,023:INFO:load_model(model_name=iris_model, platform=None, authentication=None, verbose=True)
+2025-04-10 18:07:40,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:40,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:40,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:40,144:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-10 18:07:41,145:INFO:Initializing load_model()
+2025-04-10 18:07:41,145:INFO:load_model(model_name=iris_model, platform=None, authentication=None, verbose=True)
